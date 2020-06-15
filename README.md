@@ -85,7 +85,7 @@ Step 2: Install Bleumi Pay Extension In Your OpenCart Store
 
 Step 3: Add & Configure Bleumi Pay Extension In Your OpenCart Store
 
-Please refer to the [Bleumi Pay - Installation Guide for OpenCart](Bleumi Pay - Installation Guide for OpenCart.pdf) for complete details.
+Please refer to the [Bleumi Pay - Installation Guide for OpenCart](Bleumi%20Pay%20-%20Installation%20Guide%20for%20OpenCart.pdf) for complete details.
 
 ## License
 
